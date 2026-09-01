@@ -1,6 +1,6 @@
 <?php
 
-namespace Jane\Component\OpenApi31\Tests\Issue1006\Runtime;
+namespace Jane\Component\OpenApi31\Tests\DefaultAdditionalProps\Runtime;
 
 interface AdditionalPropertiesInterface extends \IteratorAggregate, \Countable, \ArrayAccess, \JsonSerializable
 {
